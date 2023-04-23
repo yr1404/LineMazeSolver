@@ -63,4 +63,6 @@ Power Supply is provides with the help of four 9V batteries.
   
 <br>
 <img src = "https://user-images.githubusercontent.com/106465753/233775915-1cc22dea-1173-4332-873f-e06b2c72f2bd.gif">
-
+  
+**Circuit Diagram**  
+<img src="pixabay.com/12354209" alt="#CircuitDiagram">
