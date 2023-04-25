@@ -49,7 +49,7 @@ L293D Motor Driver
 
 <details>
 <summary>
-Power Supply is provides with the help of four 9V batteries.
+Power Supply is provided with the help of four 9V batteries.
 </summary>
 
 <p float="left">
@@ -62,7 +62,10 @@ Power Supply is provides with the help of four 9V batteries.
 </details>
   
 <br>
+
+<h3><b>Working of the project</b></h3>  
 <img src = "https://user-images.githubusercontent.com/106465753/233775915-1cc22dea-1173-4332-873f-e06b2c72f2bd.gif">
   
-**Circuit Diagram**  
-<img src="pixabay.com/12354209" alt="#CircuitDiagram">
+  
+<h3><b>Circuit Diagram</b></h3>    
+<img src="https://user-images.githubusercontent.com/106465753/234349891-d321a73b-b81f-455b-9166-561ce5f6112b.png" alt="#CircuitDiagram">
