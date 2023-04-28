@@ -1,4 +1,4 @@
-# LineMazeSolver  
+# Line Maze Solver Robot
   
 <img src="https://user-images.githubusercontent.com/106465753/233772553-5c6ba946-bc65-49b4-aa0e-75532f2c8a0b.jpg" width = "300px" align = "right">
 <br>  
@@ -63,9 +63,9 @@ Power Supply is provided with the help of four 9V batteries.
   
 <br>
 
-<h3><b>Working of the project</b></h3>  
+## Demo  
 <img src = "https://user-images.githubusercontent.com/106465753/233775915-1cc22dea-1173-4332-873f-e06b2c72f2bd.gif">
   
   
-<h3><b>Circuit Diagram</b></h3>    
+## Circuit Diagram  
 <img src="https://user-images.githubusercontent.com/106465753/234349891-d321a73b-b81f-455b-9166-561ce5f6112b.png" alt="#CircuitDiagram">
